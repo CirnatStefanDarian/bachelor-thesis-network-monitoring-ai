@@ -27,7 +27,6 @@ This repository contains:
 - 📝 SSET scientific paper
 - 🎤 SSET presentation
 - 🏅 SSET diploma/certificate
-- 🖼️ Project architecture and monitoring screenshots
 
 ## Technologies Used
 
